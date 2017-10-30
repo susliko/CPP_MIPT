@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/DifferentSubstrings.dir/main.cpp.o  -o DifferentSubstrings 

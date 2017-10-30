@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/susliko/IDES/CLionProjects/CPP_MIPT/sem3/mod1/StringRecoveryZ/main.cpp
+iostream
+-
+vector
+-
+
